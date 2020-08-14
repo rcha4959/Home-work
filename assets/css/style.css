@@ -73,6 +73,10 @@ p {
 }
 
 .benefits {
+    display: grid;
+    gap: 20px;
+    align-items: center;
+
     margin-left: 20px;
     padding: 20px;
     float: right;
