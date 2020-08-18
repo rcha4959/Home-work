@@ -73,14 +73,11 @@ p {
 }
 
 .benefits {
-    display: grid;
-    gap: 20px;
     align-items: center;
-
-    margin-left: 20px;
-    padding: 20px;
+    margin-left: auto;
+    padding: 20px ;
     float: right;
-    width: 20%;
+    width: 17%;
     height: 1200px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #0072bb;
